@@ -167,8 +167,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Kailas Binukumar**  
 - Email: kailasbinukumar101@gmail.com
-- GitHub: [@YourGitHubUsername](https://github.com/Ka1lu)
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/kailas-binukumar)
+- GitHub: [@Ka1lu](https://github.com/Ka1lu)
+- LinkedIn: [Kailas Binukumar](linkedin.com/in/kailas-binukumar)
 
 ## 🙏 Acknowledgments
 
