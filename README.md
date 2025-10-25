@@ -116,7 +116,7 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter
 ### Running the Analysis
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/credit-score-analysis.git
+   git clone https://github.com/Ka1lu/Credit-Score-Assessment
    cd credit-score-analysis
    ```
 
@@ -167,8 +167,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Kailas Binukumar**  
 - Email: kailasbinukumar101@gmail.com
-- GitHub: [@YourGitHubUsername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@YourGitHubUsername](https://github.com/Ka1lu)
+- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/kailas-binukumar)
 
 ## 🙏 Acknowledgments
 
